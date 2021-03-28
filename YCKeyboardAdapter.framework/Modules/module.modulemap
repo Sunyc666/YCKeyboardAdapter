@@ -1,6 +1,0 @@
-framework module YCKeyboardAdapter {
-  umbrella header "YCKeyboardAdapter.h"
-
-  export *
-  module * { export * }
-}
