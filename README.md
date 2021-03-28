@@ -13,3 +13,5 @@
 1.  参考项目主页Demo
 2.  地址1：https://github.com/Sunyc666/YCKeyboardAdapter
 3.  地址2：https://gitee.com/sunyc2013/yckeyboard-adapter
+
+#### 反馈请联系E-mail：987598765@qq.com
