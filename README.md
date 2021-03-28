@@ -4,7 +4,6 @@
 各类三方键盘弹出高度适配，包括但不限于：搜狗输入法、百度输入法、讯飞输入法、章鱼输入法、QQ输入法等。 
 
 #### 效果演示 
-![image text](https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=3355464299,584008140&fm=26&gp=0.jpg)
 
 #### 安装教程
 
