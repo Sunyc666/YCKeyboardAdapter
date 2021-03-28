@@ -4,7 +4,7 @@
 各类三方键盘弹出高度适配，包括但不限于：搜狗输入法、百度输入法、讯飞输入法、章鱼输入法、QQ输入法等。 
 
 #### 效果演示 
-![image text](https://upload-images.jianshu.io/upload_images/2955101-c3da16f3d6df9482.gif)
+![image](https://upload-images.jianshu.io/upload_images/2955101-c3da16f3d6df9482.gif)
 
 #### 安装教程
 
@@ -13,7 +13,7 @@
 
 #### 使用说明
 
-![image text](https://upload-images.jianshu.io/upload_images/2955101-3afcd894998c9485.png)
+![image](https://upload-images.jianshu.io/upload_images/2955101-3afcd894998c9485.png)
 
 1.  参考项目主页Demo
 2.  地址1：https://github.com/Sunyc666/YCKeyboardAdapter
