@@ -13,7 +13,7 @@
 		881570D82610CE6900364A62 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 881570D72610CE6900364A62 /* Assets.xcassets */; };
 		881570DB2610CE6900364A62 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 881570D92610CE6900364A62 /* LaunchScreen.storyboard */; };
 		881570DE2610CE6900364A62 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 881570DD2610CE6900364A62 /* main.m */; };
-		881570F62610D06E00364A62 /* libYCKeyboardAdapter.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 881570F42610D06E00364A62 /* libYCKeyboardAdapter.a */; };
+		D46D8E7026380E0C004858B1 /* YCKeyboardAdapter.m in Sources */ = {isa = PBXBuildFile; fileRef = D46D8E6E26380E0C004858B1 /* YCKeyboardAdapter.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,8 +27,8 @@
 		881570DA2610CE6900364A62 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		881570DC2610CE6900364A62 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		881570DD2610CE6900364A62 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		881570F42610D06E00364A62 /* libYCKeyboardAdapter.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libYCKeyboardAdapter.a; sourceTree = "<group>"; };
-		881570F52610D06E00364A62 /* YCKeyboardAdapter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YCKeyboardAdapter.h; sourceTree = "<group>"; };
+		D46D8E6E26380E0C004858B1 /* YCKeyboardAdapter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YCKeyboardAdapter.m; sourceTree = "<group>"; };
+		D46D8E6F26380E0C004858B1 /* YCKeyboardAdapter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YCKeyboardAdapter.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -36,7 +36,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				881570F62610D06E00364A62 /* libYCKeyboardAdapter.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -79,8 +78,8 @@
 		881570F32610D06E00364A62 /* YCKeyboardAdapter */ = {
 			isa = PBXGroup;
 			children = (
-				881570F42610D06E00364A62 /* libYCKeyboardAdapter.a */,
-				881570F52610D06E00364A62 /* YCKeyboardAdapter.h */,
+				D46D8E6F26380E0C004858B1 /* YCKeyboardAdapter.h */,
+				D46D8E6E26380E0C004858B1 /* YCKeyboardAdapter.m */,
 			);
 			path = YCKeyboardAdapter;
 			sourceTree = "<group>";
@@ -154,6 +153,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D46D8E7026380E0C004858B1 /* YCKeyboardAdapter.m in Sources */,
 				881570D32610CE6700364A62 /* ViewController.m in Sources */,
 				881570CD2610CE6700364A62 /* AppDelegate.m in Sources */,
 				881570DE2610CE6900364A62 /* main.m in Sources */,
