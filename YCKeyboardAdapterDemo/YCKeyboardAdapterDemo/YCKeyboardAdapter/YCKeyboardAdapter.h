@@ -8,8 +8,6 @@
 #import <Foundation/Foundation.h>
 #import <UIKit/UIKit.h>
 
-#define YCKeyboardMgr [YCKeyboardAdapter shareInstance]
-
 NS_ASSUME_NONNULL_BEGIN
 
 @protocol YCKeyboardAdapterDelegate <NSObject>
@@ -26,8 +24,6 @@ NS_ASSUME_NONNULL_BEGIN
 @interface YCKeyboardAdapter : NSObject
 
 @property (nonatomic, weak) id <YCKeyboardAdapterDelegate> delegate;
-
-+(YCKeyboardAdapter *)shareInstance;
 
 @end
 
